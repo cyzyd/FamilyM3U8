@@ -50,9 +50,12 @@ http://ivi.bupt.edu.cn/hls/jstv.m3u8
 http://223.82.250.72/live/hdjiangsustv/1.m3u8
 #EXTINF:-1 tvg-id="JiangSuWeiShi.cn" tvg-name="江苏卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",江苏卫视高清
 http://117.169.120.140:8080/live/hdjiangsustv/.m3u8
-#EXTINF:-1 tvg-id="FengHuangWeiShiZhongWenTai.hk" tvg-name="鳳凰衛視中文台" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://pbs.twimg.com/profile_images/1246604721462239232/QCKNvVux_400x400.jpg" tvg-url="" group-title="",鳳凰衛視中文台
-http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
-#EXTINF:-1 tvg-id="FengHuangZiXun.hk" tvg-name="鳳凰資訊" tvg-country="HK" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-url="" group-title="News",鳳凰衛視資訊台HD
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PCC.png" group-title="凤凰卫视",凤凰卫视中文台
+http://qlive.fengshows.cn/1080p/PCC.flv
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PIN.png" group-title="凤凰卫视",凤凰卫视资讯台
+http://qlive.fengshows.cn/1080p/PIN.flv
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/YipSzeho/PHTV/master/logo/PHK.png" group-title="凤凰卫视",鳳凰衛視香港台
+http://qlive.fengshows.cn/1080p/PHK.flv
 http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="FengHuangWeiShiDianYingTai.hk" tvg-name="鳳凰衛視電影台" tvg-country="HK" tvg-language="Chinese" tvg-logo="https://p1.ifengimg.com/a/2018_43/45a9d426b4ae58c.jpg" tvg-url="" group-title="",鳳凰衛視電影台
 rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
