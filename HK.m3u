@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 ,TVB J2
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 ,TVB新闻台
+https://cdn.hkdtmb.com/hls/83/index.m3u8
+#EXTINF:-1 ,TVB
+https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 ,TVB翡翠台
 http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 #EXTINF:-1 ,TVB 星河台 Xing He
