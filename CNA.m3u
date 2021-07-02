@@ -1,29 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="",8TV (八度空间)
-https://pcccw.github.io/pcccw.github.io/M3U8/Token/MY/8TV.m3u8
-#EXTINF:-1 tvg-id="A1Tai.hk" tvg-name="A1台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" tvg-url="" group-title="General",A1台 (720p)
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-#EXTINF:-1 tvg-id="ATVAsiaYaZhouDianShiTai.cn" tvg-name="ATV Asia (亞洲電視台)" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://www.hkatv.com/images/logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",ATV Asia (亞洲電視台)
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
-#EXTINF:-1 tvg-id="BlueMeiJuPinDao.cn" tvg-name="Blue 美剧频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",Blue 美剧频道
-http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
-#EXTINF:-1 tvg-id="CanalMacau.mo" tvg-name="Canal Macau" tvg-country="MO" tvg-language="Chinese" tvg-logo="https://i.imgur.com/0eGv67Q.png" tvg-url="" group-title="",Canal Macau
-http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTV3.cn" tvg-name="CCTV 3" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/HqScjKW.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV 3
-http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4.cn" tvg-name="CCTV 4" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/l8PQ7fy.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV 4
-https://cctvcnch5ca.v.wscdns.com/live/cctveurope_2/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13XinWen.cn" tvg-name="CCTV-13 新闻" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-13 新闻
-http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 tvg-id="CCTV13.cn" tvg-name="CCTV13" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://gitee.com/radioer/radioer/raw/main/CCTV13.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-13 新闻
-http://ivi.neu6.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5PlusTiYuSaiShi.cn" tvg-name="CCTV-5+ 体育赛事" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-5+ 体育赛事
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="",CCTV-8
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
-http://117.148.187.37/PLTV/88888888/224/3221226154/index.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 
 http://117.169.120.140:8080/live/cctv-1/.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="General",CCTV中国中央电视台-1 综合
 http://121.31.30.90:8085/ysten-business/live/cctv-1/1.m3u8
